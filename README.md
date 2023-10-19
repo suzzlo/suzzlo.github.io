@@ -8,7 +8,7 @@
 
 ## Work Experience
 
-```mermaid
+```mermaid!
 timeline
     title My Work Experience
     section Bilbomatica
