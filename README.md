@@ -8,15 +8,8 @@
 
 ## Work Experience
 
-```mermaid!
-timeline
-    title My Work Experience
-    section Bilbomatica
-	    Junior Full Stack Developer: Develop a solution
-    section SBS
-	    Junior Full Stack Developer: Develop a solution
-    section Telvent
-    section Habidite
-    section TechAbout
-    section Siemens Gamesa Renewable Energy
-```
+~~~mermaid
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+~~~
